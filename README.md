@@ -1,6 +1,13 @@
-## PYTHON CHALLENGE ##
+## PYTHON CHALLENGE ## <br>
+
+please read code directly from visiting `PyBank/Resources` folder individually`./python-challenge/Starter_Code/PyBank/Resources` <br>
+
 
 ![alt text](Starter_Code/Images/revenue-per-lead.png)
+
+---------------------------------------------------------------------------------------------------------- <br>
+# PyPoll Challenge 
+---------------------------------------------------------------------------------------------------------- <br>
 
 In this Challenge, we are tasked with creating a Python script to analyze the financial records of a company. 
 Given a financial dataset called budget_data.csv. The dataset is composed of two columns: 
@@ -30,14 +37,16 @@ Greatest Decrease in Profits: Feb-14 ($-1825558) <br>
 
 
 
--------------------------------------------------------------------------------------------------------------------- <br>
--------------------------------------------------------------------------------------------------------------------- <br>
+---------------------------------------------------------------------------------------------------------- <br>
 ## PYPOLL CHALLENGE ## <br>
--------------------------------------------------------------------------------------------------------------------- <br>
--------------------------------------------------------------------------------------------------------------------- <br>
-#PyPoll Challenge
+---------------------------------------------------------------------------------------------------------- <br>
+#PyPoll Challenge <br>
+
+please read code directly from -Resources repo under Pypoll -folder Path `./python-challenge/Starter_Code/PyPoll/Resources` <br>
 
 ![Vote_counting](https://github.com/AVI-1213/python-challenge/assets/156638175/9f0ec7d2-e9e8-46f2-b5c7-12440849e066)
+
+
 
 ## In this Challenge, We are tasked with helping a small, rural town modernize its vote-counting process.<br>
 
